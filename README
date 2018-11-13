@@ -1,1 +1,3 @@
-# The technique encrypts pairs of letters (digraphs), instead of single letters as in the simple substitution cipher. The Playfair is significantly harder to break since the frequency analysis used for simple substitution ciphers does not work with it. Frequency analysis can still be undertaken, but on the 25*25=625 possible digraphs rather than the 25 possible monographs. 
+The technique encrypts pairs of letters (digraphs), instead of single letters as in the simple substitution cipher. 
+The Playfair is significantly harder to break since the frequency analysis used for simple substitution ciphers does not work with it. 
+Frequency analysis can still be undertaken, but on the 25*25=625 possible digraphs rather than the 25 possible monographs. 
